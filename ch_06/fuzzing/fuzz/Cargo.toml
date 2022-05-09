@@ -21,7 +21,7 @@ path = ".."
 members = ["."]
 
 [[bin]]
-name = "fuzz_target_1"
-path = "fuzz_targets/fuzz_target_1.rs"
+name = "MemcopyInput"
+path = "fuzz_targets/MemcopyInput.rs"
 test = false
 doc = false
