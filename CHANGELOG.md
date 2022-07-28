@@ -2,6 +2,15 @@
 
 All notable changes to the book will be documented in this file.
 
+## v2022.56 - 2022-06-15
+
+* ch02: minor typos
+* ch04: minor typos
+* ch10: Updated web frameworks overview figure
+* ch11: Updated cryptography ecosystem overview figure
+* book: Updated for Rust 1.61
+
+
 ## v2022.55 - 2022-05-02
 
 * ch07 / ch08 / ch12: Use `use core::arch::asm` instead of `#![feature(asm)]`
